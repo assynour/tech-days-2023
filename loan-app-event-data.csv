@@ -1,5 +1,5 @@
 CaseID,Activity,StartTime,CompleteTime,Resource,Age,AnnualSalary,AmountOfLoan,TypeOfLoan,Decision,ClientApproved
-1,submit loan application,2023-01-01 10:00:00,2023-01-01 10:30:00,John,30,60000,20000,Car loan,,,
+1,submit loan application,2023-01-01 10:00:00,2023-01-01 10:30:00,John,30,60000,20000,Car loan,,
 1,review loan application,2023-01-01 11:00:00,2023-01-01 13:00:00,John,,,,,,
 1,decide,2023-01-01 13:30:00,2023-01-01 14:00:00,John,,,,,Yes,
 1,write loan contract,2023-01-02 09:00:00,2023-01-02 10:30:00,John,,,,,,
